@@ -8,6 +8,7 @@ public class NewredditApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(NewredditApplication.class, args);
+        System.out.println("Welcome to Springit!");
     }
 
 }
